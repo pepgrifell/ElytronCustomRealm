@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomSecurityRealm/CustomSecurityRealm.iml" filepath="$PROJECT_DIR$/CustomSecurityRealm/CustomSecurityRealm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elytron.iml" filepath="$PROJECT_DIR$/Elytron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginEJB/LoginEJB.iml" filepath="$PROJECT_DIR$/LoginEJB/LoginEJB.iml" />
+    </modules>
+  </component>
+</project>
