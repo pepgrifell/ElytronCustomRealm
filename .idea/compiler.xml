@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SingletonEJB" />
         <module name="LoginEJB" />
-        <module name="CustomSecurityRealm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CustomSecurityRealm" target="8" />
       <module name="LoginEJB" target="8" />
+      <module name="SingletonEJB" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/CustomSecurityRealm/CustomSecurityRealm.iml" filepath="$PROJECT_DIR$/CustomSecurityRealm/CustomSecurityRealm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Elytron.iml" filepath="$PROJECT_DIR$/Elytron.iml" />
       <module fileurl="file://$PROJECT_DIR$/LoginEJB/LoginEJB.iml" filepath="$PROJECT_DIR$/LoginEJB/LoginEJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomSecurityRealm/SingletonEJB/SingletonEJB.iml" filepath="$PROJECT_DIR$/CustomSecurityRealm/SingletonEJB/SingletonEJB.iml" />
     </modules>
   </component>
 </project>

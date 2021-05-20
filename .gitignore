@@ -46,6 +46,7 @@ local.properties
 # IntelliJ
 out/
 *.iml
+.idea
 
 # Sonarlint plugin
 .idea/sonarlint
